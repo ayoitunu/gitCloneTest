@@ -1,6 +1,6 @@
 /** Calculator program
     Author: Simeon O.
-    Created: 17'05'2019 8:20AM */
+    Created: 17'05'2019 8.20AM */
 
     import java.util.Scanner; // created class scanner
 
